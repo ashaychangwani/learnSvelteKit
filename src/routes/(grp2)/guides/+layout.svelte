@@ -5,7 +5,7 @@
 
 <header>
     <nav>
-        <Title title = "Ninja Gaming Guidessss"/>
+        <Title title = "Ninja Gaming Guides"/>
         <div class="links">
             <a href="/">Home</a>
             <a href="/about">About</a>
