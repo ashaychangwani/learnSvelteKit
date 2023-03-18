@@ -4,8 +4,8 @@
 <div class="about">
     <h2>About</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel illum nesciunt impedit dolorum facere? Recusandae esse in deleniti. Consequuntur exercitationem perspiciatis doloribus architecto alias delectus fuga distinctio unde id facere.</p>
+    <a href='/'>Home</a>
     <a href='/guides'>Guides</a>
-    <a href='/about'>About</a>
 </div>
 
 <style>
