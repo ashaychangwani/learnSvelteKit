@@ -1,6 +1,12 @@
 # create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## What is this?
+
+This is a practice repo for me to learn how to use Sveltekit.
+
+Deployed at: https://learn-svelte-kit-git-master-ashaychangwani.vercel.app/
+
+___
 
 ## Creating a project
 
