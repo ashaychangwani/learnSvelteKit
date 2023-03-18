@@ -20,6 +20,10 @@
 
 
 <style>
+  header {
+        display: flex;
+        justify-content: center;
+    }
   .error {
         text-align: center;
         margin-bottom: 60px;
