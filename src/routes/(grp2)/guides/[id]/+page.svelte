@@ -2,8 +2,8 @@
   export let data;
 </script>
 <div class="guide">
-  <h2>{data.props.guide.title}</h2>
-  <p>{data.props.guide.body}</p>
+  <h2>{data.guide.title}</h2>
+  <p>{data.guide.body}</p>
 </div>
 
 

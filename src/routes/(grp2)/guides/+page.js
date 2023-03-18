@@ -5,9 +5,7 @@ export async function load({ fetch, params }) {
     guides = await res.json()
     if (res.ok) {
       return {
-        props: {
-          guides: guides
-        }
+        guides: guides
       }
     }
 

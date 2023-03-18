@@ -5,7 +5,7 @@
 
 <div class="guides">
   <ul>
-    {#each data.props.guides as guide}
+    {#each data.guides as guide}
       <li>
         <a href='/guides/{guide.id}'>{guide.title}</a>
       </li>
